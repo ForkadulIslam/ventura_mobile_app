@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "426829821544",
+    "project_id": "ventura-app-7d3ee",
+    "storage_bucket": "ventura-app-7d3ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426829821544:android:57d1965c0233b5ba94eddd",
+        "android_client_info": {
+          "package_name": "com.ventura.vlmbd.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426829821544-18898r9j2mpv2eeuollkcgpvm5g9ettb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ventura.vlmbd.app",
+            "certificate_hash": "ae4cce231736820bbc3ba568d83e56032f98a950"
+          }
+        },
+        {
+          "client_id": "426829821544-gs4725bflfkfpjttfhsm98pspmgbpm85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSnjivSgZ7m0q7p5AbLGzVJM45mRtHIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426829821544-gs4725bflfkfpjttfhsm98pspmgbpm85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
